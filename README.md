@@ -18,4 +18,4 @@ Available methods:
 
 Thank you!
 
-For any questions can contact Radu Lungu at rlungu@macalester.edu
+For  questions contact Radu Lungu at rlungu@macalester.edu
